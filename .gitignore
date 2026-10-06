@@ -1,0 +1,17 @@
+# EDA / Verilog simulation outputs
+*.vcd
+*.vpd
+*.wlf
+*.log
+*.key
+*.fsdb
+transcript
+dump.vcd
+
+# OS & Editor artifacts
+.DS_Store
+Thumbs.db
+*.swp
+*~
+.vscode/
+.idea/
